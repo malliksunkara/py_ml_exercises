@@ -1,2 +1,5 @@
 # py_ml_exercises
-Some exercises in python to learn machine learning
+
+## Some exercises on machine learning algorithms, in python
+
+Taken from the courses of Andrew Ng
